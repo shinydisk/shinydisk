@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <img align="right" src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif" width="400"/>
+
 <h2>⚡️ A Few Quick Facts</h2>
 
 - 👀 I'm interested in **Cybersecurity**.
@@ -27,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h2>🔗 &nbsp;Connect with me</h2>
+
 <p align="left">
 <a href="https://twitter.com/_ShinyDisk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/600px-X_logo_2023.svg.png" alt="_Shinydisk" height="55" width="55" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/antoine-birker-06208b106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoinebirker" height="55" width="55" /></a>&nbsp;&nbsp;
