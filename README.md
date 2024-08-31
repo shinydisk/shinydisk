@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif" width="400"/>
 <h2>⚡️ A Few Quick Facts</h2>
 
-- 👀 I'm interesting in **Cybersecurity**.
+- 👀 I'm interested in **Cybersecurity**.
 - 💬  Ask me about anything related to **Minecraft**, **Ableton**, **DJ Tools** and its **Setup**.
 - 🎓 I’m currently learning **System & Network Administration**.
 <br>
@@ -63,19 +63,4 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/your_username)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/your_twitter_username)
 <p><a href="https://www.buymeacoffee.com/picturesan4" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="picturesan4" /></a></p>
-
-
-
-<!---
-- 👋 Hi, I’m @shinydisk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-shinydisk/shinydisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
