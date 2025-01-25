@@ -111,13 +111,12 @@
   <a href="https://www.buymeacoffee.com/picturesan4" target="_blank"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="picturesan4" />
   </a>
-</p>
+</p></br></br></br>
+
 ---
 
 <div align="center">
-  <p>
-    © 2025 - [shinydisk](https://github.com/shinydisk). All rights reserved.
-    _This repository is private, and its content cannot be used or shared without my permission._
-    _Made with ❤️ and ☕ for the open-source community._
-  </p>
+  © 2025 - [shinydisk](https://github.com/shinydisk). All rights reserved.
+  _This repository is private, and its content cannot be used or shared without my permission._
+  _Made with ❤️ and ☕ for the open-source community._
 </div>
