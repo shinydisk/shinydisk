@@ -34,9 +34,17 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Passionate about networks, coding, and open-source tools.  
+- 🔧 Passionate about networks, coding, and open-source tools.
+- 💡 Avid learner who enjoys solving real-world problems with technology.
+- 🎵 When I’m not coding, you’ll find me organizing House & Disco nights with my crew.
 - 🌱 Currently exploring **DevOps**, **Cloud Platforms**, and **Automation**.  
 - 🎯 Goal: Build and share tools that simplify networking and system administration.
+- 👨‍💻 Contributor to open-source projects aimed at optimizing IT workflows.
+- 🚀 Currently building a GitHub repository to document and share cybersecurity challenges.
+- 🤝 Always looking to collaborate on meaningful projects.
+- 🌐 Believes in the power of sharing knowledge to grow together.
+- 🚧 Next steps: Master Kubernetes and contribute to open-source networking tools.
+- 🌟 Aspiring to lead innovative projects in the DevOps and cloud space.
 
 ---
 
@@ -58,8 +66,10 @@
 
 ---
 
-## 📂 Open Source Projects
-- Test
+## 📂 Futur Open Source Projects
+- Obsidian Sync
+- Interactive WHOIS
+- Interactive NMAP
 
 ## 🌟 Public Repositories 
 
@@ -74,14 +84,40 @@
 
 ## 🌐 Where to Find Me
 
-<p align="center">
-  <a href="https://github.com/???" target="_blank">
+<p>
+  <a href="https://github.com/shinydisk" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a> 
-  <a href="https://twitter.com/???" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/_ShinyDiskr" target="_blank">
+    <img alt="X (Twitter)" src="https://img.shields.io/badge/X-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
   </a> 
-  <a href="https://www.linkedin.com/???" target="_blank">
+  <a href="https://www.linkedin.com/in/antoine-birker-06208b106/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/groovernor/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/groovernor" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-%23F6FF00.svg?&style=for-the-badge&logo=linktree&logoColor=black"/>
+  </a>
 </p>
+<a href="mailto:fshinydisk@proton.me">✉️&nbsp;fshinydisk@proton.me</a>
+
+## 🙏🏼 Support
+
+[![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/your_username)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/your_twitter_username)
+
+  <a href="https://www.buymeacoffee.com/picturesan4" target="_blank"> 
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="picturesan4" />
+  </a>
+
+---
+
+<div align="center">
+
+© 2025 - [shinydisk](https://github.com/shinydisk). All rights reserved.
+_This repository is private, and its content cannot be used or shared without my permission._
+_Made with ❤️ and ☕ for the open-source community._
+
+</div>
