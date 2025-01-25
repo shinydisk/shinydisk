@@ -1,68 +1,76 @@
-<!---
+<h1 align="center">
+  <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="60">&nbsp;Hello World!&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">&nbsp;Welcome to my GitHub!
+</h1>
 
-- 👋 Hi, I’m @shinydisk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-shinydisk/shinydisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm <a href="https://abkr.fr/">Shinydisk</a></h1>
-
-- 🍌 Don't forget to get some Potassium 🍌
-- 🐝 A teaspoon of honey is the life work of 12 bees 🐝
-<br>
-
-<img align="right" src="https://media.giphy.com/media/J4JSpIwM6y3Q6xnHgg/giphy.gif" width="400"/>
-
-<h2>⚡️ A Few Quick Facts</h2>
-
-- 👀 I'm interested in **Cybersecurity**.
-- 💬  Ask me about anything related to **Minecraft**, **Ableton**, **DJ Tools** and its **Setup**.
-- 🎓 I’m currently learning **System & Network Administration**.
-<br>
-
-<h2>🔗 &nbsp;Connect with me</h2>
-
-<p align="left">
-<a href="https://twitter.com/_ShinyDisk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/600px-X_logo_2023.svg.png" alt="_Shinydisk" height="55" width="55" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/antoine-birker-06208b106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antoinebirker" height="55" width="55" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/abkr.69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abkr.60" height="55" width="55" /></a>
-<a href="https://discord.gg/groovernor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="groovernor" height="70" width="70" /></a>
+<p align="center">
+  <b>Antoine</b>, Network Engineer from Lyon, France 🇫🇷  
 </p>
-<a href="mailto:fshinydisk@proton.me">✉️&nbsp;fshinydisk@proton.me</a>
-<br><br>
 
-<h2>🚀 &nbsp;Some Tools I Use</h2>
-<p align="left">
+<p align="center">
+  ⭐ If you like my projects, feel free to <b>star</b> and share them!  
+  💬 Feedback and contributions are always welcome.
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-<br><br>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinydisk&show_icons=true&locale=en" alt="shinydisk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinydisk&" alt="shinydisk" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinydisk&show_icons=true&locale=en&layout=compact" alt="shinydisk" /></p><br>
-<p>- ⭐️ If you find my projects interesting or useful, do not hesitate to stare (star) and share them!<p>
-<p>- 👨‍💻 Thank you for visiting my GitHub profile and viewing my projects. I appreciate your feedback and contributions!</p><br>
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Tools I Use](#tools-i-use)
+- [Open Source Projects](#open-source-projects)
+- [Where to Find Me](#where-to-find-me)
 
-<h2>🙏🏼 &nbsp;Support</h2>
+---
 
-[![GitHub Followers](https://img.shields.io/github/followers/shinydisk?label=Follow&style=social)](https://github.com/your_username)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_Shinydisk?style=social)](https://twitter.com/your_twitter_username)
-<p><a href="https://www.buymeacoffee.com/picturesan4" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="picturesan4" /></a></p>
+## 👨‍💻 About Me
 
+- 🔧 Passionate about networks, coding, and open-source tools.  
+- 🌱 Currently exploring **DevOps**, **Cloud Platforms**, and **Automation**.  
+- 🎯 Goal: Build and share tools that simplify networking and system administration.
+
+---
+
+## 🚀 Tools I Use
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" />
+</p>
+
+---
+
+## 📂 Open Source Projects
+
+## 🌟 Mes Repositories Publics
+
+| Repository | Description | ⭐ Stars | 📚 Forks | 🛎 Issues |
+|------------|-------------|----------|----------|-----------|
+| [Shinydisk](https://github.com/shinydisk/shinydisk) | README.md Shinydisk's home page | ![Stars](https://img.shields.io/github/stars/shinydisk/shinydisk?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/shinydisk?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/shinydisk?style=flat-square) |
+| [Reveal.js](https://github.com/shinydisk/Reveak.js) | Shinydisk's Reveal.js | ![Stars](https://img.shields.io/github/stars/shinydisk/Reveal.js?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/Reveal.js?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/Reveal.js?style=flat-square) |
+| [Linux Library](https://github.com/shinydisk/LinuxLibrary) | Shinydisk's Linux Library | ![Stars](https://img.shields.io/github/stars/shinydisk/LinuxLibrary?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/LinuxLibrary?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/LinuxLibrary?style=flat-square) |
+| [Python Library](https://github.com/shinydisk/PythonLibrary) | Shinydisk's Python Library | ![Stars](https://img.shields.io/github/stars/shinydisk/PythonLibrary?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/PythonLibrary?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/PythonLibrary?style=flat-square) |
+
+---
+
+## 🌐 Where to Find Me
+
+<p align="center">
+  <a href="https://github.com/???" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a> 
+  <a href="https://twitter.com/???" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a> 
+  <a href="https://www.linkedin.com/???" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
