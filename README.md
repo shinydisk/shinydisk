@@ -3,13 +3,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">&nbsp;Welcome to my GitHub!
 </h1>
 
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZmNmZ3ajE2YzdhaXVjYWNoZXB3Y3d3dGsxaXZhcjZkOXdld2wycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n27rqQ6g3gNcA/giphy.gif">
+</div></br>
+
 <p align="center">
-  <b>Antoine</b>, Network Engineer from Lyon, France 🇫🇷  
+  <b>Antoine</b>, Network Engineer from Lyon, France 🇫🇷  </br>
+  👀 I am very interested in cybersecurity and ethical hacking.
 </p>
 
 <p align="center">
-  ⭐ If you like my projects, feel free to <b>star</b> and share them!  
-  💬 Feedback and contributions are always welcome.
+  ⭐ If you like my projects, feel free to <b>star</b> and share them!</br>
+  💬 Feedback and contributions are always welcome.</br>
+</p>
+
+<p align="center">
+  ⭐️ If you find my projects interesting or useful, do not hesitate to stare (star) and share them!</br>
+  👨‍💻 Thank you for visiting my GitHub profile and viewing my projects. I appreciate your feedback and contributions!
 </p>
 
 ---
@@ -32,25 +42,26 @@
 
 ## 🚀 Tools I Use
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="33"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="43" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" />
 </p>
 
 ---
 
 ## 📂 Open Source Projects
+- Test
 
-## 🌟 Mes Repositories Publics
+## 🌟 Public Repositories 
 
 | Repository | Description | ⭐ Stars | 📚 Forks | 🛎 Issues |
 |------------|-------------|----------|----------|-----------|
