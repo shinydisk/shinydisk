@@ -115,9 +115,9 @@
 ---
 
 <div align="center">
-
-© 2025 - [shinydisk](https://github.com/shinydisk). All rights reserved.
-_This repository is private, and its content cannot be used or shared without my permission._
-_Made with ❤️ and ☕ for the open-source community._
-
+  <p>
+    © 2025 - [shinydisk](https://github.com/shinydisk). All rights reserved.
+    _This repository is private, and its content cannot be used or shared without my permission._
+    _Made with ❤️ and ☕ for the open-source community._
+  </p>
 </div>
