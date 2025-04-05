@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://slackmojis.com/emojis/5197-party_blob/download" width="60">&nbsp;Hello World!&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">&nbsp;Welcome to my GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">&nbsp;Welcome to my GitHub!
 </h1>
 
 <div align="center">
@@ -71,6 +71,8 @@
 - Interactive WHOIS
 - Interactive NMAP
 
+
+[//]: # "Comment"
 ## 🌟 Public Repositories 
 
 | Repository | Description | ⭐ Stars | 📚 Forks | 🛎 Issues |

@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 <h2>🚀 &nbsp;Some Tools I Use</h2>
 <p align="left">
 
+[/
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -53,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
 <br><br>
+/]
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shinydisk&show_icons=true&locale=en" alt="shinydisk" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shinydisk&" alt="shinydisk" /></p>
