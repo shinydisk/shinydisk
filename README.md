@@ -25,10 +25,10 @@
 ---
 
 ## 📚 Table of Contents
-- [About Me](#about-me)
-- [Tools I Use](#tools-i-use)
-- [Open Source Projects](#open-source-projects)
-- [Where to Find Me](#where-to-find-me)
+- [About Me](#-about-me)
+- [Tools I Use](#-tools-i-use)
+- [Open Source Projects](#-futur-open-source-projects)
+- [Where to Find Me](#-where-to-find-me)
 
 ---
 
