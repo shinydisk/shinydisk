@@ -71,17 +71,6 @@
 - Interactive WHOIS
 - Interactive NMAP
 
-
-[//]: # "Comment"
-## 🌟 Public Repositories 
-
-| Repository | Description | ⭐ Stars | 📚 Forks | 🛎 Issues |
-|------------|-------------|----------|----------|-----------|
-| [Shinydisk](https://github.com/shinydisk/shinydisk) | README.md Shinydisk's home page | ![Stars](https://img.shields.io/github/stars/shinydisk/shinydisk?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/shinydisk?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/shinydisk?style=flat-square) |
-| [Reveal.js](https://github.com/shinydisk/Reveak.js) | Shinydisk's Reveal.js | ![Stars](https://img.shields.io/github/stars/shinydisk/Reveal.js?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/Reveal.js?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/Reveal.js?style=flat-square) |
-| [Linux Library](https://github.com/shinydisk/LinuxLibrary) | Shinydisk's Linux Library | ![Stars](https://img.shields.io/github/stars/shinydisk/LinuxLibrary?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/LinuxLibrary?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/LinuxLibrary?style=flat-square) |
-| [Python Library](https://github.com/shinydisk/PythonLibrary) | Shinydisk's Python Library | ![Stars](https://img.shields.io/github/stars/shinydisk/PythonLibrary?style=flat-square) | ![Forks](https://img.shields.io/github/forks/shinydisk/PythonLibrary?style=flat-square) | ![Issues](https://img.shields.io/github/issues/shinydisk/PythonLibrary?style=flat-square) |
-
 ---
 
 ## 🌐 Where to Find Me
@@ -118,7 +107,5 @@
 ---
 
 <div align="center">
-  © 2025 - <a href="https://github.com/shinydisk">shinydisk</a>  All rights reserved.<br>
-  This repository is private, and its content cannot be used or shared without my permission.
-  Made with ❤️ and ☕ for the open-source community.
+  © 2026 - <a href="https://github.com/shinydisk">shinydisk</a>  All rights reserved.<br>
 </div>
